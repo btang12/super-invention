@@ -11,7 +11,7 @@
    * When did you complete this exercise? 
       We completed it the weekend before it was due.
    * How long did it take your team to complete this exercise? 
-      _INSERT TIME HERE_
+      2 hours
 
 ## Table of Contents
 
