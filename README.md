@@ -7,7 +7,7 @@
        * GitHub username 2: SeanXiaoyuSun - Xiaoyu Sun 
        * GitHub username 3: csullivan9 - Chris Sullivan
        * GitHub username 4: PatStiles - Patrick Stiles
-       * GitHub username 5:
+       * GitHub username 5: mcthomas4 - Matthew Thomas
    * When did you complete this exercise? 
       We completed it the weekend before it was due.
    * How long did it take your team to complete this exercise? 
