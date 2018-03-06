@@ -35,6 +35,7 @@ We will be following the CS400 style guide for programming in Java.
 ## Commenting style for public and private members of a class or interface:
 
 * Be consistent.
+* Comments should be descriptive and concise to increase readability.
 * In-line comments should have descriptions for complex blocks of code and algorithms.
 * Comments for public members of classes.
 * Comments should add information to otherwise obscure blocks of code.
