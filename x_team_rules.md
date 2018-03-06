@@ -16,10 +16,12 @@ The project manager will assign tasks and take into account team member's availa
 ## How will we track progress (and follow-up) on completion of tasks
 We will check whether the last person completed his task before starting a new task. 
 We will also check in on progress via group chat during the halfway point to the deadline.
+Additionally we will guage the difficulty of each task accordingly to delegate each task as best we can.
 
 ## How will we communicate difficulties with a task assigned to us
 If issues arise, we will discuss it in our group chat or meet in person.
 If someone can't handle a certain task because of time constraints or other issues, we will delegate it to another member.
+Certain difficulties may require greater collaboration on specific tasks.
 
 ## How we will back up each other to ensure that deadlines are not missed
 We will also check in on progress via group chat during the halfway point to the deadline.
