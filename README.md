@@ -6,7 +6,7 @@
        * GitHub username 1: btang12 - Brian Tang
        * GitHub username 2: SeanXiaoyuSun - Xiaoyu Sun 
        * GitHub username 3: csullivan9 - Chris Sullivan
-       * GitHub username 4: PatStiles - Patrick Stiles
+       * GitHub username 4: PatStiles - Patrick Stiles    
        * GitHub username 5: mcthomas4 - Matthew Thomas
    * When did you complete this exercise? 
       We completed it the weekend before it was due.
